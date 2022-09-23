@@ -1,0 +1,43 @@
+.ejercicio3{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    width: 20%;
+    height: 28vh;
+    margin-top: 30px;
+    border-top: 2px solid white;
+    border-radius: 10px;
+    padding: 40px 30px;
+    box-sizing: border-box;
+}
+
+.ejercicio3 h3 {
+    color: rgb(61, 61, 61);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ejercicio3 p {
+    color: rgb(97, 97, 97);
+    margin-top: 15px;
+}
+
+.ejercicio3#ej3_1{
+    border-color: rgb(255, 57, 57);
+}
+
+.ejercicio3#ej3_2{
+    border-color: #49D2CF;
+}
+
+.ejercicio3#ej3_3{
+    border-color: #F3B353;
+}
+
+main ol{
+    list-style: disc;
+    margin-left: 50px;
+}
+
+main ol li{
+    margin-top: 20px;
+}

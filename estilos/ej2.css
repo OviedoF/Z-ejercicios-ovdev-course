@@ -1,0 +1,44 @@
+.ejercicio2{
+    border: 2px solid red;
+    margin-top: 20px;
+    width: 30%;
+    height: 25vh;
+    padding: 10px;
+    border-radius: 5x;
+}
+
+.ejercicio2 .texto_ejercicio2{
+    background-color: rgba(255, 255, 255, 0.74);
+    width: 40%;
+    height: 100%;
+    border: 1px solid red;
+}
+
+.ejercicio2 .texto_ejercicio2 p{
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 24px;
+    margin: auto;
+}
+
+.ejercicio2#ej2_1{
+    background-image: url(../imagenes/ej2/1.jpg);
+    background-size: cover;
+}
+
+.ejercicio2#ej2_2{
+    background-image: url(../imagenes/ej2/2.png);
+    background-size: cover;
+}
+
+.ejercicio2#ej2_3{
+    background-image: url(../imagenes/ej2/3.jpg);
+    background-size: cover;
+}
+
+main img{
+    margin-top: 30px;
+    width: 30%;
+    height: 30vh;
+}
